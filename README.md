@@ -23,6 +23,8 @@ add it to the database with the click of a button. And Allow the user to Read th
 Update the data and Allow the user to delete the data through the streamlit UI
 This project will require skills in image processing, OCR, GUI development, and
 database management. It will also require you to carefully design and plan the
+application architecture to ensure that it is scalable, maintanable,and extensible.
+Good documention and code organisation will important for this project.
 
 # Approach:
 1. Install the required packages: You will need to install Python, Streamlit,
