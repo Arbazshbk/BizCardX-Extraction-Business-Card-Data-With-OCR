@@ -78,5 +78,4 @@ Good documentation and code organization would also be important for the project
 Overall, the result of the project would be a useful tool for businesses and individuals
 who need to manage business card information efficiently.
 
-
-# Linkedin : https://www.linkedin.com/posts/arbaz-shaikh-738a39283_project-title-bizcardx-extracting-business-activity-7100393070885519361-CbnA?utm_source=share&utm_medium=member_desktop
+Linkedin : https://www.linkedin.com/posts/arbaz-shaikh-738a39283_project-title-bizcardx-extracting-business-activity-7100393070885519361-CbnA?utm_source=share&utm_medium=member_desktop
